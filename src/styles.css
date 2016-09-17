@@ -1,0 +1,37 @@
+.contact {
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    padding: 20px;
+    color: white;
+    background-color: black;
+}
+
+p {
+    font-family: Arial;
+    font-size: larger;
+}
+
+.name {
+    color: yellow;
+}
+
+.gitub {
+    color: #327fc7;
+}
+
+.twitter {
+    color: #1da1f2;
+}
+
+.question {
+    color: red;
+}
+
+.answer {
+    color: green;
+}
+
+
+
+
