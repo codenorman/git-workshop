@@ -10,3 +10,5 @@ The instructions for installations are in the [Git-Workshop-Installations.pdf li
 * NodeJS
 * Chrome and Postman
 
+## Project
+The instructions for the project are in the [git-class-project.pdf link](https://github.com/codenorman/git-workshop/blob/master/git-class-project.pdf)
